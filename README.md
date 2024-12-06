@@ -46,7 +46,9 @@ IMG_HIPPO_API_KEY: ''
 - Navigate to the Bot tab on the left and click Add Bot.
 - Under the bot settings, click Reset Token to generate a bot token.
 - Copy the token and paste it into the TOKEN field in your config.yml.
-- Make sure you enable all the Gateway Intents.
+- Make sure you enable all the Gateway Intents in the Bot tab.
+![image_2024-12-06_181240534](https://github.com/user-attachments/assets/7c16144f-1507-4919-a406-01c290310b54)
+
 
 ### Running the Bot
 - After configuring the config.yml, you can start the bot with:
