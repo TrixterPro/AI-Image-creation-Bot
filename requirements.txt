@@ -1,2 +1,4 @@
 discord.py==2.4.0
-freeGPT==1.3.5
+freeGPTFix
+pillow
+cloudscraper
